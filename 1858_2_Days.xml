@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--SN is the Sender Number of the day, RN is the Rceiver Number of the Day, AN is Adjustment Number of the day, MN is the message number of the day-->
+<root>
+    <day><date Date="1858-08-19">August 19.</date>
+        <message MN="1"><sender SN="1">Newfoundland </sender>to<receiver RN="1">
+                Valentia.</receiver>
+            <adjustment AN="1">“See to adjustment. </adjustment>Can you receive President’s message?
+            Been here since yesterday.” “We can’t read.” “Currents too weak to read.” “Very good
+            currents, but can’t read. Send C’s.” </message>
+        <message MN="2"><sender SN="2">Valentia </sender>to<receiver RN="2">
+                Newfoundland.</receiver> “C. C. C. Faster.” (This in answer to Newfoundland’s
+            request to send C’s for adjustment.) “Send message fast.” (These words came in very good
+            signals. The deflections on galvanometer very strong.)</message>
+        <message MN="3"><sender SN="3">Newfoundland </sender>to<receiver RN="3">
+                Valentia.</receiver> “Have you received message for Mclver? Send
+            acknowledgment.”</message>
+        <message MN="4"><sender SN="4">Valentia </sender>to<receiver RN="4">Newfoundland.</receiver>
+            “No.”</message>
+        <message MN="5"><sender SN="5">Newfoundland </sender>to<receiver RN="5">
+                Valentia.</receiver>
+            <ship_news>“D. C. Mclver, Liverpool:—<steamboat
+                    what="A steamboat is a small vessel for river and lakes">Arabia</steamboat> in
+                collision with <steamship what="A steamship is a large vessel for ocean travel"
+                    >Europa,</steamship> Cape Race, Saturday. Arabia on her way. Head slightly
+                injured. Europa lost bowsprit, cutwater; stern sprung. Will remain in St. John’s,
+                Newfoundland, ten days from sixteenth. Persia calls at St. John’s for mails and
+                passengers. No loss of life or limb. <ship_line
+                    what="Cunard is a shipping and cruise line in England. Owned Arabia."
+                    >CUNARD.”</ship_line></ship_news> “New York, August 17.” </message>
+        <message MN="6"><sender SN="6">Valentia</sender>to<receiver RN="6"> Newfoundland.</receiver>
+            “Cunard. All right. Go on.”</message>
+        <message MN="7"><sender SN="7">Newfoundland </sender>to<receiver RN="7">
+                Valentia.</receiver>
+            <presidential_message president="James Buchanan 1791 to 1868, President 1857 to 1861"
+                >THE PRESIDENT’S MESSAGE. “Washington City. To Her Majesty,<queen
+                    who="Queen Victoria  1819 to 1910, ruled 1837 to death"> Victoria, Queen of
+                    Great Britain:</queen>—The President cordially reciprocates the congratulations
+                of Her Majesty, the Queen, on the success of this great international enterprise,
+                accomplished by the science, skill, and indomitable energy of the two countries. It
+                is a triumph more glorious, because far more useful to mankind, than ever was won by
+                conqueror on the field of battle. May the Atlantic Telegraph, under the blessings of
+                Heaven, prove to be a bond of perpetual peace and friendship between the kindred
+                nations, and an instrument designed by Divine Providence to diffuse religion,
+                civilization, liberty, and law throughout the world. In this view will not all the
+                nations of Christendom spontaneously unite in the declaration, that it shall be
+                forever neutral, and that its communications shall be held sacred in passing to the
+                place of their destination, even in the midst of hostilities? JAMES
+                BUCHANAN.”</presidential_message></message>
+        <message MN="8"><sender SN="8">Valentia </sender>to<receiver RN="8">
+                Newfoundland.</receiver> “President’s all right.”</message>
+        <message MN="9"><sender SN="9">Newfoundland </sender>to<receiver RN="9">
+                Valentia.</receiver><adjustment AN="2 and 3">“Your current much stronger; but cannot
+                read your signals. Repeat.” “Received. Send a few words.” “Your currents very weak.
+                Repeat.”</adjustment></message>
+        <message MN="10"><sender SN="10">Valentia </sender>to<receiver RN="10">
+                Newfoundland.</receiver> “How now,—can you read?”</message>
+        <message MN="11"><sender SN="11">Newfoundland </sender>to<receiver RN="11">
+                Valentia..</receiver> “Understand. Better than ever. Please always commence by
+            attack and give final signals, as we receive on galvanometer. Relay won’t work.” “To
+            Whitehouse. Please send large circular galvanometer.”</message>
+        <message MN="12"><sender SN="12">Valentia </sender>to<receiver RN="12">
+                Newfoundland.</receiver> “Can you take message for Field?” (At 8 P.M., Valentia had
+            finished message to Mr. Field. Currents were strong, but very irregular, and only the
+            last five words were readable. This was the message commencing “Directors have just
+            met.”)</message>
+        <message MN="13"><sender SN="13">Newfoundland </sender>to<receiver RN="13">
+                Valentia.</receiver> “Strength of your current constantly varies. Send Field’s
+            message.” “Repeat all from beginning to ‘tariff.’” “You should never send more than a
+            dozen words at a time in long messages. Repeat all of last message before ‘tariff.’”
+            “Can’t read. Send dots and dashes.” “After ‘can you.’” </message>
+        <message MN="14"><sender SN="14">Valentia </sender>to<receiver RN="14">
+                Newfoundland.</receiver> “How now?”</message>
+        <message MN="15"><sender SN="15">Newfoundland </sender>to<receiver RN="15">
+                Valentia.</receiver> “Better. Repeat message to Field.”</message>
+        <message MN="16"><sender SN="16">Valentia </sender>to<receiver RN="16">
+                Newfoundland.</receiver> “Try read on galvanometer.”</message>
+        <message MN="17"><sender SN="17">Newfoundland </sender>to<receiver RN="17">
+                Valentia.</receiver> “Yes. Repeat Field’s message.” "All to word ‘the.’” “Understand
+            after « met.’”</message> (The last ten messages refer to the following message to Mr.
+        Field, which, although commenced at 3.55 P.M. on the 19th, was not finished until 1.45 A.M.
+        of the 20th.)</day>
+    <day>
+        <date Date="1858-08-22">August 22</date>
+        <message MN="1"><sender SN="1">Newfoundland </sender>to<receiver RN="1"> Valentia.
+            </receiver>“Can you receive message?” (After an hour’s intermission,) “How do you
+            receive?" (Seven hours’intermission,) “Do you receive this?” </message>
+        <message MN="2"><sender SN="2">Valentia </sender>to<receiver RN="2"> Newfoundland.
+            </receiver>“Can you read this?”</message>
+        <message MN="3"><sender SN="3">Newfoundland </sender>to<receiver RN="3"> Valentia.
+            </receiver>“Yes. Can you take message now?”</message>
+        <message MN="4"><sender SN="4">Valentia </sender>to<receiver RN="4"> Newfoundland.
+            </receiver>“Yes.”</message>
+        <message MN="5 - This is the Mayoral Message between London and New York"><sender SN="5"
+                >Newfoundland </sender>to<receiver RN="5"> Valentia. </receiver>“August 21, New
+            York. <mayor who="Mayor of London 1857 to 1859, Lived 1801 to 1888">Right-Honorable Sir
+                Walter Carden, Lord Mayor of London</mayor>:— <mayoral_message>congratulate your
+                Lordship upon the successful laying of the Atlantic Cable, uniting continents Europe
+                and America, cities London and New York, Great Britain and the United States. It is
+                a triumph of science and energy over time and space, uniting more closely the bonds
+                of peace and commercial prosperity,—introducing an era in the world’s history
+                pregnant with results beyond the conception of a finite mind.
+                </mayoral_message><mayor who="Mayor of New York 1858 to 1860, Lived 1805 to 1899"
+                >“DANIEL F. TIEMANN, Mayor”</mayor>
+        </message>
+        <message MN="6"><sender SN="6">Valentia </sender>to<receiver RN="6"> Newfoundland.
+            </receiver>“Mayor’s message received.” “Insulate for two hours, and say when you
+            commence. Repeat this.” </message>
+        <message MN="7"><sender SN="7">Newfoundland </sender>to<receiver RN="7"> Valentia.
+            </receiver>“Understand. Cable insulated.” “Have you finished testing?” “Repeat. Send
+            much slower.” “Signals are good, but your sending comes very bad. Repeat all.” “Please
+            repeat service.” “Repeat service message.” “Repeat service now.”</message> The above
+        were all the signals read after the transmission of the Mayor’s message at 2.15 P.M., until
+        10.19 P.M. <message MN="8"><sender SN="8">Valentia </sender>to<receiver RN="8">
+                Newfoundland. </receiver>“Thomson to De Sauty:—Put delicate detector in circuit, and
+            note weak currents from us, thirty minutes each way. Say if ready.”</message>
+        <message MN="9"><sender SN="9">Newfoundland </sender>to<receiver RN="9"> Valentia.
+            </receiver>“Repeat word after ‘us.’” Valentia to Newfoundland. “Thirty.”</message>
+        <message MN="10"><sender SN="10">Newfoundland </sender>to<receiver RN="10"> Valentia.
+            </receiver>“Understand. Ready now.”</message></day>
+</root>
