@@ -1,0 +1,287 @@
+<svg width="1536" height="800" version="1.1" xmlns="http://www.w3.org/2000/svg" style="">
+    <rect class="overlay" width="1536" height="800" fill="none"/>
+    <g class="main">
+        <g class="layer nodes">
+            <circle fill = "#f7f1ac" class="node source" r="17.291594120504456"
+                transform="translate(761.7252990638528,292.35805492856014)"/>
+            <circle fill = "#f7f1ac" class="node target" r="20"
+                transform="translate(847.1159544883485,398.3691395789491)"/>
+            <circle fill = "#f7f1ac" class="node target" r="14.534784843632865"
+                transform="translate(811.950808769177,240.87514972808663)"/>
+            <circle fill = "#f7f1ac" class="node source" r="13.477483881230226"
+                transform="translate(804.9932924159407,312.9415812605265)"/>
+            <circle fill = "#f7f1ac" class="node target" r="17.705974966033732"
+                transform="translate(662.4480434839927,347.6027894605302)"/>
+            <circle fill = "#f7f1ac" class="node source" r="9.523281628939031"
+                transform="translate(749.0136977033578,331.128925217536)"/>
+            <circle fill = "#f7f1ac" class="node source" r="9.523281628939031"
+                transform="translate(782.6943149066703,351.0914044506037)"/>
+            <circle fill = "#f7f1ac" class="node source" r="8.659411708155671"
+                transform="translate(736.8406685517984,442.51161995551274)"/>
+            <circle fill = "#f7f1ac" class="node source fixed" r="5"
+                transform="translate(660.6398203706165,223.56813957561917)"/>
+            <circle fill = "#f7f1ac" class="node source" r="5"
+                transform="translate(837.3963137526434,512.9982694254437)"/>
+            <circle fill = "#f7f1ac" class="node source" r="5"
+                transform="translate(893.4736811349931,501.3658130653015)"/>
+            <circle fill = "#f7f1ac" class="node source" r="5"
+                transform="translate(572.4169633657068,400.3474692643849)"/>
+            <circle fill = "#f7f1ac" class="node source" r="5"
+                transform="translate(933.2608678370889,324.8557871071722)"/>
+            <circle fill = "#f7f1ac" class="node source fixed" r="5"
+                transform="translate(414.2210601992881,461.2179636436647)"/>
+            <circle fill = "#f7f1ac" class="node source fixed" r="5"
+                transform="translate(516.2563775611918,241.39899711054568)"/>
+            <circle fill = "#f7f1ac" class="node source" r="5"
+                transform="translate(946.1265818026002,478.57837788353913)"/>
+            <circle fill = "#f7f1ac" class="node source fixed" r="5"
+                transform="translate(619.8303942759605,256.8236711411688)"/>
+            <circle fill = "#f7f1ac" class="node source" r="5"
+                transform="translate(565.7190737936544,335.39211754156554)"/>
+            <circle fill = "#f7f1ac" class="node source" r="5"
+                transform="translate(615.3977871613765,447.0700635225676)"/>
+            <circle fill = "#f7f1ac" class="node source" r="6.515777959824974"
+                transform="translate(744.1289271818778,403.0768819847842)"/>
+            <circle fill = "#f7f1ac" class="node source" r="5"
+                transform="translate(941.9979360394889,424.7833359217334)"/>
+            <circle fill = "#f7f1ac" class="node source" r="5"
+                transform="translate(968.6255335844419,376.2646652150838)"/>
+        </g>
+        <g class="layer labels">
+            <g class="anchor-node source" transform="translate(760.5002648695406,278.6183778788985)">
+                <text transform="translate(-50.773524932522115,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Computer
+                    security</text>
+            </g>
+            <g class="anchor-node target" transform="translate(856.5887445263672,404.1441241856818)">
+                <text transform="translate(-3.0739165708805842,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">physical</text>
+            </g>
+            <g class="anchor-node target"
+                transform="translate(817.8607498918968,226.70154070511114)">
+                <text transform="translate(-6.439827090417245,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">web</text>
+            </g>
+            <g class="anchor-node source" transform="translate(815.4448011161921,304.5007235169969)">
+                <text transform="translate(-10.3910832866746,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Security
+                    measures</text>
+            </g>
+            <g class="anchor-node target" transform="translate(651.5642066668165,347.1649280132808)">
+                <text transform="translate(-56.13871850869605,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;"
+                    >interlibrary</text>
+            </g>
+            <g class="anchor-node source" transform="translate(739.782006515032,325.9993245785073)">
+                <text transform="translate(-38.13837867306697,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Hackers</text>
+            </g>
+            <g class="anchor-node source" transform="translate(791.6524435637518,355.8671113230547)">
+                <text transform="translate(-5.12370939625879,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Computer
+                    crimes</text>
+            </g>
+            <g class="anchor-node source"
+                transform="translate(733.0500194545587,456.04495291413457)">
+                <text transform="translate(-62.77162162426964,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Computer
+                    networks</text>
+            </g>
+            <g class="anchor-node source"
+                transform="translate(657.6412294382822,209.54124351468977)">
+                <text transform="translate(-33.664513090101515,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Computers</text>
+            </g>
+            <g class="anchor-node source" transform="translate(837.758733218087,526.9099175494489)">
+                <text transform="translate(-40.35835661432962,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;"
+                    >Microcomputers</text>
+            </g>
+            <g class="anchor-node source" transform="translate(900.3497502452369,513.769410485175)">
+                <text transform="translate(-17.34179771473393,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;"
+                    >Cryptography</text>
+            </g>
+            <g class="anchor-node source"
+                transform="translate(559.8769571833809,405.86485529404877)">
+                <text transform="translate(-195.26434044492794,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Cyberspace
+                    operations (Military science)</text>
+            </g>
+            <g class="anchor-node source"
+                transform="translate(944.3933938510309,316.07801118098826)">
+                <text transform="translate(-9.573285856320163,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Computer
+                    viruses</text>
+            </g>
+            <g class="anchor-node source"
+                transform="translate(402.4865912057935,465.65928571053917)">
+                <text transform="translate(-84.32423049321234,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Cloud
+                    computing</text>
+            </g>
+            <g class="anchor-node source"
+                transform="translate(504.43675210882134,233.92669049526285)">
+                <text transform="translate(-80.81058377496335,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Internet of
+                    things</text>
+            </g>
+            <g class="anchor-node source" transform="translate(958.68693463617,487.4721235549316)">
+                <text transform="translate(-7.596189517772963,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Internal
+                    security</text>
+            </g>
+            <g class="anchor-node source"
+                transform="translate(610.2718628589016,247.54329189470593)">
+                <text transform="translate(-34.83581213982173,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Internet</text>
+            </g>
+            <g class="anchor-node source" transform="translate(552.4587346394269,333.3571505816532)">
+                <text transform="translate(-200.43360852750226,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Electronic data
+                    processing departments</text>
+            </g>
+            <g class="anchor-node source"
+                transform="translate(607.6787222182534,458.32691511586427)">
+                <text transform="translate(-141.72007297037894,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Data encryption
+                    (Computer science)</text>
+            </g>
+            <g class="anchor-node source"
+                transform="translate(738.9579261304611,411.58173502457896)">
+                <text transform="translate(-55.48136064464759,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Access
+                    control</text>
+            </g>
+            <g class="anchor-node source" transform="translate(954.9703895899065,427.3821557362494)">
+                <text transform="translate(-1.675599576056283,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Wireless
+                    communication systems</text>
+            </g>
+            <g class="anchor-node source" transform="translate(983.5289092669359,373.523501067649)">
+                <text transform="translate(-0.6766049994824427,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">World Wide
+                    Web</text>
+            </g>
+        </g>
+        <g class="layer links">
+            <path class="link"
+                d="M761.7252990638528,292.35805492856014L847.1159544883485,398.3691395789491"
+                href="#path0_1"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M761.7252990638528,292.35805492856014L811.950808769177,240.87514972808663"
+                href="#path0_2"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M804.9932924159407,312.9415812605265L847.1159544883485,398.3691395789491"
+                href="#path3_1"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M761.7252990638528,292.35805492856014L662.4480434839927,347.6027894605302"
+                href="#path0_4"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M804.9932924159407,312.9415812605265L662.4480434839927,347.6027894605302"
+                href="#path3_4"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M749.0136977033578,331.128925217536L811.950808769177,240.87514972808663"
+                href="#path5_2"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M782.6943149066703,351.0914044506037L811.950808769177,240.87514972808663"
+                href="#path6_2"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M736.8406685517984,442.51161995551274L847.1159544883485,398.3691395789491"
+                href="#path7_1"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M804.9932924159407,312.9415812605265L811.950808769177,240.87514972808663"
+                href="#path3_2"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M736.8406685517984,442.51161995551274L662.4480434839927,347.6027894605302"
+                href="#path7_4"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M660.6398203706165,223.56813957561917L662.4480434839927,347.6027894605302"
+                href="#path8_4"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M837.3963137526434,512.9982694254437L847.1159544883485,398.3691395789491"
+                href="#path9_1"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M893.4736811349931,501.3658130653015L847.1159544883485,398.3691395789491"
+                href="#path10_1"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M572.4169633657068,400.3474692643849L662.4480434839927,347.6027894605302"
+                href="#path11_4"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M933.2608678370889,324.8557871071722L847.1159544883485,398.3691395789491"
+                href="#path12_1"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M414.2210601992881,461.2179636436647L662.4480434839927,347.6027894605302"
+                href="#path13_4"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M516.2563775611918,241.39899711054568L662.4480434839927,347.6027894605302"
+                href="#path14_4"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M946.1265818026002,478.57837788353913L847.1159544883485,398.3691395789491"
+                href="#path15_1"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M782.6943149066703,351.0914044506037L847.1159544883485,398.3691395789491"
+                href="#path6_1"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M749.0136977033578,331.128925217536L847.1159544883485,398.3691395789491"
+                href="#path5_1"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M749.0136977033578,331.128925217536L662.4480434839927,347.6027894605302"
+                href="#path5_4"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M619.8303942759605,256.8236711411688L662.4480434839927,347.6027894605302"
+                href="#path16_4"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M565.7190737936544,335.39211754156554L662.4480434839927,347.6027894605302"
+                href="#path17_4"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M615.3977871613765,447.0700635225676L662.4480434839927,347.6027894605302"
+                href="#path18_4"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M782.6943149066703,351.0914044506037L662.4480434839927,347.6027894605302"
+                href="#path6_4"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M744.1289271818778,403.0768819847842L847.1159544883485,398.3691395789491"
+                href="#path19_1"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M941.9979360394889,424.7833359217334L847.1159544883485,398.3691395789491"
+                href="#path20_1"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M968.6255335844419,376.2646652150838L847.1159544883485,398.3691395789491"
+                href="#path21_1"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M744.1289271818778,403.0768819847842L662.4480434839927,347.6027894605302"
+                href="#path19_4"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"
+            />
+        </g>
+    </g>
+</svg>

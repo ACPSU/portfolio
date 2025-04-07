@@ -1,0 +1,497 @@
+<svg width="1536" height="800" version="1.1" xmlns="http://www.w3.org/2000/svg" style="">
+    <rect class="overlay" width="1536" height="800" fill="none"/>
+    <g class="main">
+        <g class="layer nodes">
+            <circle fill = "#aceff7" class="node source" r="11.473057542728178"
+                transform="translate(930.0370380235311,642.2323831245897)"/>
+            <circle fill = "#aceff7" class="node target" r="10.519969482306733"
+                transform="translate(875.9062493870626,733.8723112581649)"/>
+            <circle fill = "#aceff7" class="node target" r="20"
+                transform="translate(888.6950957507256,492.06536592895964)"/>
+            <circle fill = "#aceff7" class="node source" r="10.519969482306733"
+                transform="translate(869.0028773832523,656.0828248383038)"/>
+            <circle fill = "#aceff7" class="node target" r="10.519969482306733"
+                transform="translate(952.5884711798014,709.3032327666026)"/>
+            <circle fill = "#aceff7" class="node source" r="9.465749119617227"
+                transform="translate(985.5123756455173,607.2766142790854)"/>
+            <circle fill = "#aceff7" class="node source" r="6.8497738515011655"
+                transform="translate(1030.1221708197259,506.3816624051889)"/>
+            <circle fill = "#aceff7" class="node target" r="5"
+                transform="translate(1155.7512257927503,509.421108149912)"/>
+            <circle fill = "#aceff7" class="node source" r="8.269155249415792"
+                transform="translate(894.250444947945,622.8142649456963)"/>
+            <circle fill = "#aceff7" class="node source" r="8.269155249415792"
+                transform="translate(786.8695379276414,465.15034993708616)"/>
+            <circle fill = "#aceff7" class="node target" r="5"
+                transform="translate(667.3083768126091,540.571624042421)"/>
+            <circle fill = "#aceff7" class="node target" r="15.34546511801307"
+                transform="translate(800.6332344307175,314.17258358133313)"/>
+            <circle fill = "#aceff7" class="node source" r="8.269155249415792"
+                transform="translate(404.9783083550676,137.31828661059365)"/>
+            <circle fill = "#aceff7" class="node target" r="6.8497738515011655"
+                transform="translate(519.4589730208945,159.53564745580354)"/>
+            <circle fill = "#aceff7" class="node target" r="5"
+                transform="translate(348.4903754014131,79.06707738170599)"/>
+            <circle fill = "#aceff7" class="node source" r="8.269155249415792"
+                transform="translate(927.5256506199933,403.66509855084666)"/>
+            <circle fill = "#aceff7" class="node source" r="9.465749119617227"
+                transform="translate(671.766728618599,202.1316236617813)"/>
+            <circle fill = "#aceff7" class="node source" r="6.8497738515011655"
+                transform="translate(853.7351964551278,419.52803425814034)"/>
+            <circle fill = "#aceff7" class="node target" r="5"
+                transform="translate(610.6978209846127,125.69293889133189)"/>
+            <circle fill = "#aceff7" class="node target" r="5"
+                transform="translate(671.5451073501342,92.54794996419389)"/>
+            <circle fill = "#aceff7" class="node source" r="8.269155249415792"
+                transform="translate(932.5166333805887,365.99396207174163)"/>
+            <circle fill = "#aceff7" class="node source" r="8.269155249415792"
+                transform="translate(893.6895801385092,366.2016652032207)"/>
+            <circle fill = "#aceff7" class="node target" r="9.465749119617227"
+                transform="translate(998.7358622947215,326.534981904961)"/>
+            <circle fill = "#aceff7" class="node source" r="10.519969482306733"
+                transform="translate(918.9450884445951,312.4107008345817)"/>
+            <circle fill = "#aceff7" class="node target" r="5"
+                transform="translate(1021.6925719572553,224.70157582487275)"/>
+            <circle fill = "#aceff7" class="node target" r="5"
+                transform="translate(960.2714302388217,186.76475355087632)"/>
+            <circle fill = "#aceff7" class="node source" r="6.8497738515011655"
+                transform="translate(783.3751748663617,599.4500498047195)"/>
+            <circle fill = "#aceff7" class="node target" r="5"
+                transform="translate(684.1530352234363,697.9531035614154)"/>
+            <circle fill = "#aceff7" class="node target" r="5"
+                transform="translate(1082.3581381943663,679.36424494629)"/>
+            <circle fill = "#aceff7" class="node source" r="8.269155249415792"
+                transform="translate(843.5293634410439,347.5525292658874)"/>
+            <circle fill = "#aceff7" class="node target" r="5"
+                transform="translate(835.5653698968708,205.93858644341105)"/>
+            <circle fill = "#aceff7" class="node source" r="8.269155249415792"
+                transform="translate(760.5298338749301,383.80730452511875)"/>
+            <circle fill = "#aceff7" class="node target" r="5"
+                transform="translate(631.4181176309896,360.41344685982517)"/>
+            <circle fill = "#aceff7" class="node source" r="8.269155249415792"
+                transform="translate(750.9636532634447,431.7071082329279)"/>
+            <circle fill = "#aceff7" class="node target" r="5"
+                transform="translate(611.9058019236049,463.2031145590271)"/>
+            <circle fill = "#aceff7" class="node target" r="5"
+                transform="translate(326.5545094173947,176.5320842691932)"/>
+            <circle fill = "#aceff7" class="node source" r="6.8497738515011655"
+                transform="translate(813.9286303052259,410.1657615465663)"/>
+        </g>
+        <g class="layer labels">
+            <g class="anchor-node source" transform="translate(938.1498832923382,654.2123544650578)">
+                <text transform="translate(-9.65308907557702,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Levi, Ran</text>
+            </g>
+            <g class="anchor-node target" transform="translate(874.5004331612495,750.6825121100519)">
+                <text transform="translate(-47.2132165588214,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Computer
+                    crimes</text>
+            </g>
+            <g class="anchor-node target" transform="translate(895.5198194637921,501.9706637026668)">
+                <text transform="translate(-20.174689105242837,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Computer
+                    security</text>
+            </g>
+            <g class="anchor-node source" transform="translate(864.2234180663452,670.3633645645205)">
+                <text transform="translate(-56.07097586886519,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Schwartau,
+                    Winn</text>
+            </g>
+            <g class="anchor-node target" transform="translate(959.7276582812558,724.798109082142)">
+                <text transform="translate(-11.834257668909018,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Hackers</text>
+            </g>
+            <g class="anchor-node source" transform="translate(998.1237357613409,614.6699784253491)">
+                <text transform="translate(-11.22718836188392,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Mitnick, Kevin;
+                    Simon, William L.</text>
+            </g>
+            <g class="anchor-node source"
+                transform="translate(1044.4107869567356,509.2739985068147)">
+                <text transform="translate(-0.7214678412189123,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Damgård,
+                    Ivan</text>
+            </g>
+            <g class="anchor-node target"
+                transform="translate(1170.8638300379569,511.3618944488924)">
+                <text transform="translate(-0.27420209702978227,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;"
+                    >Cryptography</text>
+            </g>
+            <g class="anchor-node source" transform="translate(894.967507693018,633.3149933523457)">
+                <text transform="translate(-27.140763473467352,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Cox,
+                    Joseph</text>
+            </g>
+            <g class="anchor-node source" transform="translate(779.5736931194733,476.3471887721455)">
+                <text transform="translate(-109.85675935220918,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Hypponen, Mikko;
+                    Moss, Jeff</text>
+            </g>
+            <g class="anchor-node target" transform="translate(655.3184041317759,549.3818004052563)">
+                <text transform="translate(-79.08462900103967,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Internet of
+                    things</text>
+            </g>
+            <g class="anchor-node target" transform="translate(794.3013051172459,301.1747294152881)">
+                <text transform="translate(-67.29602976219282,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Security
+                    measures</text>
+            </g>
+            <g class="anchor-node source"
+                transform="translate(394.83787951896875,130.94809153640858)">
+                <text transform="translate(-62.017148119017165,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Kane,
+                    Pamela</text>
+            </g>
+            <g class="anchor-node target" transform="translate(509.0430505587683,152.3324613522301)">
+                <text transform="translate(-66.54336473455038,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Access
+                    control</text>
+            </g>
+            <g class="anchor-node target"
+                transform="translate(337.69666584743004,69.97329514495925)">
+                <text transform="translate(-78.67518662865912,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Computer
+                    viruses</text>
+            </g>
+            <g class="anchor-node source"
+                transform="translate(941.3205147658327,408.32093157349755)">
+                <text transform="translate(-2.8223642479085247,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Honeynet Project,
+                    The</text>
+            </g>
+            <g class="anchor-node source"
+                transform="translate(664.7054977058447,192.23846046446226)">
+                <text transform="translate(-60.72022079068606,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Kuong, Javier
+                    F.</text>
+            </g>
+            <g class="anchor-node source"
+                transform="translate(859.8297378297077,427.76397922263516)">
+                <text transform="translate(-32.84816012926987,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Kianpour,
+                    Mazaher; Franke, Ulrik</text>
+            </g>
+            <g class="anchor-node target"
+                transform="translate(603.1304030032827,114.17964350398927)">
+                <text transform="translate(-43.13709272305004,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Computers</text>
+            </g>
+            <g class="anchor-node target" transform="translate(669.916115122408,78.11324582488857)">
+                <text transform="translate(-112.10378091718492,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Electronic data
+                    processing departments</text>
+            </g>
+            <g class="anchor-node source"
+                transform="translate(947.0565166151043,361.21774424257524)">
+                <text transform="translate(-1.9544313686030566,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Salomon,
+                    Daṿid</text>
+            </g>
+            <g class="anchor-node source"
+                transform="translate(898.7061097776257,356.47943685022983)">
+                <text transform="translate(-21.08301109115454,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Schneier,
+                    Bruce</text>
+            </g>
+            <g class="anchor-node target" transform="translate(1014.235644375681,320.6170220497138)">
+                <text transform="translate(-3.2519407533115237,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Computer
+                    networks</text>
+            </g>
+            <g class="anchor-node source"
+                transform="translate(926.7598626624979,298.92673616877994)">
+                <text transform="translate(-107.93267106600261,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Lewis, James
+                    Andrew; Center for Strategic and International Studies (Washington, D.C.)</text>
+            </g>
+            <g class="anchor-node target"
+                transform="translate(1034.450819234065,214.38420573146652)">
+                <text transform="translate(-22.676971981864245,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Cyberspace
+                    operations (Military science)</text>
+            </g>
+            <g class="anchor-node target"
+                transform="translate(967.0143116248407,172.34535847294433)">
+                <text transform="translate(-11.691276873474736,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Internet</text>
+            </g>
+            <g class="anchor-node source" transform="translate(775.7883076405767,611.0306799852826)">
+                <text transform="translate(-66.97275836698132,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Mollin, Richard
+                    A.</text>
+            </g>
+            <g class="anchor-node target" transform="translate(675.3220614111358,710.2763086794619)">
+                <text transform="translate(-143.2551931921086,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Data encryption
+                    (Computer science)</text>
+            </g>
+            <g class="anchor-node target"
+                transform="translate(1094.5338562901172,689.3569651405878)">
+                <text transform="translate(-9.377625588465705,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Internal
+                    security</text>
+            </g>
+            <g class="anchor-node source" transform="translate(842.398466303023,335.36940263129725)">
+                <text transform="translate(-89.01236523668328,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Nepal, Surya;
+                    Pathan, Mukaddim</text>
+            </g>
+            <g class="anchor-node target" transform="translate(836.2461369067241,190.9307375062093)">
+                <text transform="translate(-41.59825212270928,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Cloud
+                    computing</text>
+            </g>
+            <g class="anchor-node source"
+                transform="translate(748.0403814131189,377.54148592937634)">
+                <text transform="translate(-170.51204193418204,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Nichols, Randall
+                    K.; Lekkas, Panos C.</text>
+            </g>
+            <g class="anchor-node target"
+                transform="translate(617.7066611214709,357.72658729195655)">
+                <text transform="translate(-170.40729299599735,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Wireless
+                    communication systems</text>
+            </g>
+            <g class="anchor-node source"
+                transform="translate(737.1108166708948,435.49788596626047)">
+                <text transform="translate(-66.49219670182325,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Oppliger,
+                    Rolf</text>
+            </g>
+            <g class="anchor-node target" transform="translate(597.3661297857368,466.9690922448556)">
+                <text transform="translate(-80.71483937493444,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">World Wide
+                    Web</text>
+            </g>
+            <g class="anchor-node target" transform="translate(313.0376448388854,175.3120385282332)">
+                <text transform="translate(-82.7072277823341,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;"
+                    >Microcomputers</text>
+            </g>
+            <g class="anchor-node source"
+                transform="translate(804.3132519089481,410.90330282663047)">
+                <text transform="translate(-358.1622272052373,5)"
+                    style="font-family: karla, Arial, Helvetica; font-size: 11px;">Che Mat, Nur
+                    Ilzam; Jamil, Norziana; Yusoff, Yunus; Mat Kiah, Miss Laiha</text>
+            </g>
+        </g>
+        <g class="layer links">
+            <path class="link"
+                d="M930.0370380235311,642.2323831245897L875.9062493870626,733.8723112581649"
+                href="#path0_1"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M930.0370380235311,642.2323831245897L888.6950957507256,492.06536592895964"
+                href="#path0_2"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M869.0028773832523,656.0828248383038L888.6950957507256,492.06536592895964"
+                href="#path3_2"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M930.0370380235311,642.2323831245897L952.5884711798014,709.3032327666026"
+                href="#path0_4"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M869.0028773832523,656.0828248383038L875.9062493870626,733.8723112581649"
+                href="#path3_1"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M985.5123756455173,607.2766142790854L888.6950957507256,492.06536592895964"
+                href="#path5_2"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M1030.1221708197259,506.3816624051889L1155.7512257927503,509.421108149912"
+                href="#path6_7"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M1030.1221708197259,506.3816624051889L888.6950957507256,492.06536592895964"
+                href="#path6_2"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M894.250444947945,622.8142649456963L875.9062493870626,733.8723112581649"
+                href="#path8_1"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M786.8695379276414,465.15034993708616L888.6950957507256,492.06536592895964"
+                href="#path9_2"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M786.8695379276414,465.15034993708616L667.3083768126091,540.571624042421"
+                href="#path9_10"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M786.8695379276414,465.15034993708616L800.6332344307175,314.17258358133313"
+                href="#path9_11"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M404.9783083550676,137.31828661059365L519.4589730208945,159.53564745580354"
+                href="#path12_13"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M404.9783083550676,137.31828661059365L348.4903754014131,79.06707738170599"
+                href="#path12_14"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M927.5256506199933,403.66509855084666L800.6332344307175,314.17258358133313"
+                href="#path15_11"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M894.250444947945,622.8142649456963L952.5884711798014,709.3032327666026"
+                href="#path8_4"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M671.766728618599,202.1316236617813L519.4589730208945,159.53564745580354"
+                href="#path16_13"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M853.7351964551278,419.52803425814034L800.6332344307175,314.17258358133313"
+                href="#path17_11"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M671.766728618599,202.1316236617813L610.6978209846127,125.69293889133189"
+                href="#path16_18"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M671.766728618599,202.1316236617813L671.5451073501342,92.54794996419389"
+                href="#path16_19"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M671.766728618599,202.1316236617813L800.6332344307175,314.17258358133313"
+                href="#path16_11"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M932.5166333805887,365.99396207174163L888.6950957507256,492.06536592895964"
+                href="#path20_2"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M893.6895801385092,366.2016652032207L998.7358622947215,326.534981904961"
+                href="#path21_22"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M893.6895801385092,366.2016652032207L800.6332344307175,314.17258358133313"
+                href="#path21_11"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M918.9450884445951,312.4107008345817L998.7358622947215,326.534981904961"
+                href="#path23_22"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M918.9450884445951,312.4107008345817L888.6950957507256,492.06536592895964"
+                href="#path23_2"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M918.9450884445951,312.4107008345817L1021.6925719572553,224.70157582487275"
+                href="#path23_24"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M918.9450884445951,312.4107008345817L960.2714302388217,186.76475355087632"
+                href="#path23_25"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M918.9450884445951,312.4107008345817L800.6332344307175,314.17258358133313"
+                href="#path23_11"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M927.5256506199933,403.66509855084666L888.6950957507256,492.06536592895964"
+                href="#path15_2"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M783.3751748663617,599.4500498047195L684.1530352234363,697.9531035614154"
+                href="#path26_27"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M783.3751748663617,599.4500498047195L888.6950957507256,492.06536592895964"
+                href="#path26_2"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M853.7351964551278,419.52803425814034L888.6950957507256,492.06536592895964"
+                href="#path17_2"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M985.5123756455173,607.2766142790854L1082.3581381943663,679.36424494629"
+                href="#path5_28"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M843.5293634410439,347.5525292658874L835.5653698968708,205.93858644341105"
+                href="#path29_30"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M843.5293634410439,347.5525292658874L888.6950957507256,492.06536592895964"
+                href="#path29_2"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M843.5293634410439,347.5525292658874L800.6332344307175,314.17258358133313"
+                href="#path29_11"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M760.5298338749301,383.80730452511875L888.6950957507256,492.06536592895964"
+                href="#path31_2"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M760.5298338749301,383.80730452511875L800.6332344307175,314.17258358133313"
+                href="#path31_11"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M760.5298338749301,383.80730452511875L631.4181176309896,360.41344685982517"
+                href="#path31_32"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M750.9636532634447,431.7071082329279L888.6950957507256,492.06536592895964"
+                href="#path33_2"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M750.9636532634447,431.7071082329279L800.6332344307175,314.17258358133313"
+                href="#path33_11"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M750.9636532634447,431.7071082329279L611.9058019236049,463.2031145590271"
+                href="#path33_34"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M932.5166333805887,365.99396207174163L998.7358622947215,326.534981904961"
+                href="#path20_22"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M985.5123756455173,607.2766142790854L952.5884711798014,709.3032327666026"
+                href="#path5_4"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M932.5166333805887,365.99396207174163L800.6332344307175,314.17258358133313"
+                href="#path20_11"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M404.9783083550676,137.31828661059365L326.5545094173947,176.5320842691932"
+                href="#path12_35"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M893.6895801385092,366.2016652032207L888.6950957507256,492.06536592895964"
+                href="#path21_2"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M927.5256506199933,403.66509855084666L998.7358622947215,326.534981904961"
+                href="#path15_22"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M894.250444947945,622.8142649456963L888.6950957507256,492.06536592895964"
+                href="#path8_2"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M813.9286303052259,410.1657615465663L800.6332344307175,314.17258358133313"
+                href="#path36_11"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M869.0028773832523,656.0828248383038L952.5884711798014,709.3032327666026"
+                href="#path3_4"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"/>
+            <path class="link"
+                d="M813.9286303052259,410.1657615465663L888.6950957507256,492.06536592895964"
+                href="#path36_2"
+                style="fill: none; stroke-opacity: 0.5; stroke: rgb(102, 102, 102); stroke-width: 1;"
+            />
+        </g>
+    </g>
+</svg>
