@@ -2,8 +2,7 @@ body {
     background-color:skyblue
     ;font-family:arial, helvetica, sans-serif, monospace
 }
-Figure{
-    width: 30%;
+figure{
     background: /*#FFD700*/gold
 }
 .rotate{
@@ -20,9 +19,10 @@ img{
     display:block;
     margin-left:auto;
     margin-right:auto;
+    width:100%
 }
 div.flex{
-   display:flex; 
+   display:flex;
 }
 section{
     font-family:courier, fixed, monospace;
